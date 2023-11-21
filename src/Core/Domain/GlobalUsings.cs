@@ -1,0 +1,1 @@
+﻿global using EMR.CORE.Domain.Common.Contracts;

@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "EMR.CORE",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}

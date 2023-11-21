@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using EMR.CORE.Application.Common.Events;
+global using EMR.CORE.Application.Common.Exceptions;
+global using EMR.CORE.Application.Common.FileStorage;
+global using EMR.CORE.Application.Common.Interfaces;
+global using EMR.CORE.Application.Common.Models;
+global using EMR.CORE.Application.Common.Persistence;
+global using EMR.CORE.Application.Common.Specification;
+global using EMR.CORE.Application.Common.Validation;
+global using EMR.CORE.Domain.Catalog;
+global using EMR.CORE.Domain.Common;
+global using EMR.CORE.Domain.Common.Contracts;
+global using EMR.CORE.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

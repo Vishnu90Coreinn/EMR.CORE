@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 7 WebAPI - Clean Architecture",
+    "Version": "1.0.0",
+    "Description": "Clean Architecture Template for .NET 7 WebApi built with Multitenancy Support.",
+    "ContactName": "Vishnu",
+    "ContactEmail": "mail.vishnurajs@gmail.com",
+    "ContactUrl": "https://linkedin.com/in/vishnuraj_s",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": ""
+  }
+}

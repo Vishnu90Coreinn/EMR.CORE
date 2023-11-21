@@ -1,0 +1,7 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=DESKTOP-9VD205J\\SQL19;Initial Catalog=CoreHMSMigrated;Integrated Security=True;User ID=sa;Password=Pass@1234;Connection Timeout=100;TrustServerCertificate=True",
+    "Test": "mssql"
+  }
+}
