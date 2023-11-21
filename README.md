@@ -42,27 +42,12 @@ The goal of this repository is to provide a complete and feature-rich starting p
 - [x] & Much More
 </details>
 
-## Documentation
-
-Read Documentation related to this Boilerplate here - https://fullstackhero.net/dotnet-webapi-boilerplate/
-> Feel free to contribute to the Documentation Repository - https://github.com/fullstackhero/docs
-
-## Getting Started
-
-To get started with this Boilerplate, here are the available options.
-
-- Install using the `FSH CLI` tool. Use this for release versions of the Boilerplate only.
-- Fork the Repository. Use this if you want to always keep your version of the Boilerplate up-to date with the latest changes.
-
-> Make sure that your DEV enviroment is setup, [Read the Development Environment Guide](https://fullstackhero.net/dotnet-webapi-boilerplate/general/development-environment/)
-
-### FSH CLI Tool
 
 #### Prerequisites
 
 Before creating your first fullstackhero solution, you should ensure that your local machine has:
 
-- **.NET 7** You can find the download [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
+- **.NET 8** You can find the download [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
 - **NodeJS (16+)** You can find the download [here](https://nodejs.org/en/download).
 
 #### Installation
